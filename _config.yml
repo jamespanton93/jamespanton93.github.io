@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "James Panton"
-  avatar           : "profile_image.jpg"
+  avatar           : "profile_image.jpeg"
   bio              : "I recently submitted my PhD thesis and am starting as a research associate at Cardiff University in Nov 2020. "
   location         : "Cardiff, Wales, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=r-rf6a4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
