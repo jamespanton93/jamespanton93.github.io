@@ -11,11 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-#PhD
+<h2>PhD</h2>
 
 I studied as a PhD student at Cardiff Universiy from 2016-2020 on the NERC funded [Deep Volatiles](http://www.deepvolatiles.org/) project. My research involded reconicling long-standing geochemical observations in 3D numerical geodynamic models. Specific geochemical constraints considered are:
 * The Pb pseudo-isochron age of oceanic basalts
