@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate practical classes"
 permalink: /teaching/2016-practical-demonstrator-1
 venue: "Cardiff University"
-date: 2016-2020
+date: 2020-01-01
 location: "City, Country"
 ---
 
