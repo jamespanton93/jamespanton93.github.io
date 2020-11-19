@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* MSci Geophysics, University of Southampton, 2012-2016
 * PhD Advances in using three-dimensional mantle convection models to address geochemcial problems, Cardiff University, 2016-2020
+* MSci Geophysics, University of Southampton, 2012-2016
   
 Skills
 ======
 * Geodynamic modelling
-* Data visualisation with Paraview
+* Data visualisation (Paraview, matplotlib, seaborn)
 * Coding
   * Python
   * Fortran
@@ -43,7 +43,8 @@ Teaching
   
 Service
 ======
-* Co-convenor, A deep dive into lowermost mantle processes, AGU, San Francisco, 2019
+* Co-convenor, [A deep dive into lowermost mantle processes](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/80766), AGU, San Francisco, 2019 
+* Organiser of British Geophysical Association (BGA) [Postgraduate Research in Progress](https://britgeophysics.files.wordpress.com/2018/10/programme.pdf) (PGRiP) conference, 2018
 
 
 Work experience
