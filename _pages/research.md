@@ -22,6 +22,7 @@ I studied as a PhD student at Cardiff University from 2016-2020 on the NERC fund
 * He and Ar composition of oceanic basalts
 * Present day <sup>3</sup>He degassing rate
 * Atmospheric <sup>40</sup>Ar/<sup>36</sup>Ar
+
 My thesis is titled 'Advances in using three-dimensional mantle convection models to address global geochemical cycles' and is availble [here](http://orca.cf.ac.uk/138329/).
 
 
