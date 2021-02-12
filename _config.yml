@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "James Panton"
+  name             : "Dr James Panton"
   avatar           : "profile_image.jpeg"
-  bio              : "Research associate in Geodynamics at Cardiff University. My interests include mantle dynamics, structure and composition. "
+  bio              : "Research associate in Geodynamics at Cardiff University. My research interests include mantle dynamics, structure and composition. "
   location         : "Cardiff, Wales, UK"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=r-rf6a4AAAAJ"
-  email            :
+  email            : "pantonjc@cardiff.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : 
