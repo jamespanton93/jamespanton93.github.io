@@ -23,6 +23,11 @@ Skills
   * Fortran
   * MATLAB
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
  
 Talks
 ======
