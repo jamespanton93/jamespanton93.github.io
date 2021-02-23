@@ -1,10 +1,10 @@
 ---
-title: "Advances"
+title: "Advances in using three-dimensional mantle convection models to address global geochemical cycles"
 collection: publications
 permalink: /publication/phd-thesis
 excerpt: 'PhD thesis'
 date: 2021-02-08
-venue: 'PhD Thesis'
+venue:'Cardiff University'
 paperurl: 'http://orca.cf.ac.uk/138329/'
 citation: 'Panton, J. (2021). &quot; Advances in using three-dimensional mantle convection models to address global geochemical cycles.&quot; <i>PhD Thesis, Cardiff University</i>. '
 ---
