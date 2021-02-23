@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD Advances in using three-dimensional mantle convection models to address geochemcial problems, Cardiff University, 2016-2020
+* PhD, Advances in using three-dimensional mantle convection models to address geochemical problems, Cardiff University, 2016-2020
 * MSci Geophysics, University of Southampton, 2012-2016
   
 Skills
@@ -23,12 +23,7 @@ Skills
   * Fortran
   * MATLAB
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Talks
 ======
   <ul>{% for post in site.talks %}
