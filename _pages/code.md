@@ -1,5 +1,6 @@
 ---
 permalink: /code/
+layout: archive
 title: "Code"
 excerpt: "Code"
 author_profile: true
