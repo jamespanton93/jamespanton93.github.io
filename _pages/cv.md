@@ -43,12 +43,17 @@ Teaching
   
 Service
 ======
+* Co-convenor, [Constraining mantle convection models with Earth’s observations](https://meetingorganizer.copernicus.org/EGU24/session/49108), EGU, Vienna, 2024
 * Co-convenor, [A deep dive into lowermost mantle processes](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/80766), AGU, San Francisco, 2019 
 * Organiser of British Geophysical Association (BGA) [Postgraduate Research in Progress](https://britgeophysics.files.wordpress.com/2018/10/programme.pdf) (PGRiP) conference, 2018
 
-
-Work experience
+Supervision
 ======
-* Summer 2015: Visual data processor, Zetica Ltd
-  * Processing GPR data
-  * QC
+Co-supervisor:
+* Abigail Plimmer - PhD student, Cardiff University 
+* Gwynfor Morgan - PhD student, Cardiff University
+* Nicolas Récalde - PhD student, Cardiff University
+
+Primary Supervisor:
+* Alistair Campbell - undergraduate student - summer research project, Cardiff University
+

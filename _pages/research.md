@@ -13,7 +13,8 @@ author_profile: true
 
 <h2>Research Associate Cardiff University</h2>
 
-I am currently working on the NERC funded grant, [Mantle Circulation Constrained](https://gtr.ukri.org/projects?ref=NE%2FT012633%2F1), lead by Huw Davies at Cardiff University. My role involes code development on TERRA (a 3D mantle convection code), developing post-processing tools, and running mantle circulation models constrained by plate reconstructions. These models will be used to investigate the origins of large igenous provinces (LIPs).
+I am currently working on the NERC funded grant, [Mantle Circulation Constrained](https://gtr.ukri.org/projects?ref=NE%2FT012633%2F1), lead by Huw Davies at Cardiff University. My role involes code development on TERRA (a 3D mantle convection code), developing post-processing tools, and running mantle circulation models constrained by plate reconstructions. As part of the project I am collaborating with researchers from a range of disciplines to constrain the simulations with seismic tomography, seismic anisotropy, dynamic topography, geochemistry and core observations. We have developed a Python package, [terratools](https://github.com/mantle-convection-constrained/terratools) to make post-processing and visulaisation of model results more accessible. 
+
 
 <h2>PhD</h2>
 
