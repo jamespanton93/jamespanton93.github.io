@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a geodynamicist at Cardiff University, specialising in the use of numerical mantle convection models. I completed my PhD at Cardiff University in 2021 and am now a research associate at the same institution, working on the NERC Large Grant, [Mantle Convection Constrained (MC2)](https://gtr.ukri.org/projects?ref=NE%2FT012633%2F1). Please see my [research page](https://jamespanton93.github.io/research/) for information on my past and present work.
+I am a postdoc working in the Institute for Geophysics and Meteorology at the University of Cologne. In my current role I run numerical weather predicition (NWP) simulations, specifically for field campaigns related to the [AC3](https://www.ac3-tr.de/) project. I am also providing training and software support for NWP using [ICON](https://www.icon-model.org/), developing pre and post processing tools and working on devleopments related to the [Warmworld](https://www.warmworld.de/) project. I completed my PhD at Cardiff University in 2021 then worked as a postdoc on the NERC Large Grant, [Mantle Convection Constrained (MC2)](https://gtr.ukri.org/projects?ref=NE%2FT012633%2F1). Please see my [research page](https://jamespanton93.github.io/research/) for information on my past and present work.
 
 
-![Temperature anomaly and bulk composition in a mantle convection model](/images/TempComp.png)
+![Bulk compositon through a mantle circulation simulation, from Panton, et al., 2025](/images/x-sect-comp.jpg)
+
+
