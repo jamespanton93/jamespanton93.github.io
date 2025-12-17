@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /press/
 title: "Press and Outreach"
 excerpt: "Press and Outreach"
@@ -9,6 +10,8 @@ redirect_from:
   - /outreach/
   - /outreach.html
 ---
+
+{% include base_path %}
 
 <h2>Press</h2>
 
