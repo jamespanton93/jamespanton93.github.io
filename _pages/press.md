@@ -3,11 +3,6 @@ permalink: /
 title: "Press and Outreach"
 excerpt: "Press and Outreach"
 author_profile: true
-redirect_from:
-  - /press/
-  - /press.html
-  - /outreach/
-  - /outreach.html
 ---
 
 <h2>Press</h2>
