@@ -3,14 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /research/
-  - /research.html
 ---
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=r-rf6a4AAAAJ&hl=en).
-
-{% include base_path %}
 
 
 <h2>Postdoc at University of Cologne</h2>
