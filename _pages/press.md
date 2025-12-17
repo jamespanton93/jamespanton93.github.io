@@ -4,9 +4,7 @@ permalink: /press/
 title: "Press and Outreach"
 author_profile: true
 redirect_from:
-  - /press.html
-  - /outreach/
-  - /outreach.html
+  - /outreach
 ---
 
 {% include base_path %}
