@@ -2,7 +2,6 @@
 layout: archive
 permalink: /press/
 title: "Press and Outreach"
-excerpt: "Press and Outreach"
 author_profile: true
 redirect_from:
   - /press.html
