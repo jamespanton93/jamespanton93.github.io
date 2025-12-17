@@ -9,19 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* **University of Cologne, Mar 2025 - Present** Postdoc in numerical weather predicition, employed on the [AC3](https://www.ac3-tr.de/) and [WarmWorld](https://www.warmworld.de/) projects. 
+* **Cardiff  University, Nov 2021 - Feb 2025** Postdoc in mantle geodynamics, employed on the [MC2](https://www.cardiff.ac.uk/research/explore/find-a-project/view/2592859-mc2-mantle-circulation-constrained) project.
+
 Education
 ======
 * PhD, Advances in using three-dimensional mantle convection models to address geochemical problems, Cardiff University, 2016-2020
 * MSci Geophysics, University of Southampton, 2012-2016
-  
-Skills
-======
-* Geodynamic modelling
-* Data visualisation (Paraview, matplotlib, seaborn)
-* Coding
-  * Python
-  * Fortran
-  * MATLAB
 
 Publications
 ======
@@ -50,7 +46,7 @@ Service
 Supervision
 ======
 Co-supervisor:
-* Abigail Plimmer - PhD student, Cardiff University 
+* Abigail Plimmer - PhD student, Cardiff University. Now at University of Bergen. 
 * Gwynfor Morgan - PhD student, Cardiff University
 * Nicolas Récalde - PhD student, Cardiff University
 
