@@ -13,4 +13,4 @@ I am a postdoc working in the Institute for Geophysics and Meteorology at the Un
 
 ![Bulk compositon through a mantle circulation simulation, from Panton, et al., 2025](/images/x-sect-comp.jpg)
 
-
+Figure of bulk composition through a mantle circulation simulation, from [Panton, et al., 2025](https://www.nature.com/articles/s41598-025-88931-3).
