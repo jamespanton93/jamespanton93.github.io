@@ -8,6 +8,8 @@ main:
 
   - title: "Research"
     url: /research/
+
+
     
 #  - title: "Code"
 #    url: /code/
@@ -24,5 +26,5 @@ main:
   - title: "CV"
     url: /cv/
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Press and Outreach"
+    url: /press/
